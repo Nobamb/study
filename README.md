@@ -1,2 +1,2 @@
 # study
-study of vibe coding( self-actualization)
+study self-actualization
